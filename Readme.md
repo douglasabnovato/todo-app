@@ -6,7 +6,7 @@
   <img alt="TodoApp" title="#TodoApp" src="./.github/tela-1.jpg">  
 </p> 
 
-## 🚀 projeto
+## 🚀 Projeto
 
 Uma aplicação de todo com um crud detalhado e a prática do redux.
 
@@ -19,7 +19,8 @@ Uma aplicação de todo com um crud detalhado e a prática do redux.
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
-  <img alt="TodoApp" title="#TodoApp" src="./.github/tela-1.jpg" width="400px">  
+  <img alt="TodoApp home" title="#TodoApp" src="./.github/tela-1.jpg" width="400px">   
+  <img alt="TodoApp infra" title="#TodoApp" src="./.github/tela-2.jpg" width="400px">  
 </p> 
 
 ## 🚀 Desafios 
