@@ -29,15 +29,15 @@
 
 #### Backend
 
-Commands `mkdir backend`. Create file `package.json` with details.
-Install the lib in the development mode: `npm i`.
-Option 1 of Project started nodemon : `mongod` and `npm run dev`.
+Commands `mkdir backend`. Create file `package.json` with details.</br>
+Install the lib in the development mode: `npm i`.</br>
+Option 1 of Project started nodemon : `mongod` and `npm run dev`.</br>
 Option 2 of Project started pm2 : `mongod` and `npm run production`. 
 
 #### Frontend Web
 
-Commands `mkdir frontend`. Create file `package.json` with details.
-Install the lib in the development mode: `npm i`.
+Commands `mkdir frontend`. Create file `package.json` with details.</br>
+Install the lib in the development mode: `npm i`.</br>
 Project started nodemon : `npm run dev`.
 
 ## 🚀 Construído projeto 
