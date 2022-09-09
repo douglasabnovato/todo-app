@@ -1,1 +1,4 @@
-#### TodoApp - frontend
+TodoApp - frontend
+
+- sem redux
+- com redux
