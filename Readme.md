@@ -20,31 +20,25 @@
 
 ## 🚀 Desafios 
 
-- [x] Construindo o backend com Express [120 - 129] 
-- [x] Introdução ao React [130 - 150]  
-- [x] Gerenciamento de estado com Redux [151 - 169] 
-- [x] Migrando para Redux [170 - 185] 
+- [x] Construindo o backend com Express [123 - 132] 
+- [x] Construindo o frontend com React [133 - 153]  
+- [x] Gerenciamento de estado com Redux [154 - 172] 
+- [x] Migrando para Redux [173 - 188] 
 
 ## 🚀 Inicializar o projeto 
 
 #### Backend
 
-Commands `mkdir backend`. Create file `package.json` with details. <br/> 
-
-Install the lib in the development mode: `npm i`. <br/> 
-
-Option 1 of Project started nodemon : `mongod` and `npm run dev`. <br/> 
-
-Option 2 of Project started pm2 : `mongod` and `npm run production`. <br/> 
+Commands `mkdir backend`. Create file `package.json` with details.
+Install the lib in the development mode: `npm i`.
+Option 1 of Project started nodemon : `mongod` and `npm run dev`.
+Option 2 of Project started pm2 : `mongod` and `npm run production`. 
 
 #### Frontend Web
 
-Commands `mkdir frontend`. Create file `package.json` with details. <br/> 
-
-Install the lib in the development mode: `npm i`. <br/> 
-
-Project started nodemon : `npm run dev`.  
-
+Commands `mkdir frontend`. Create file `package.json` with details.
+Install the lib in the development mode: `npm i`.
+Project started nodemon : `npm run dev`.
 
 ## 🚀 Construído projeto 
 
