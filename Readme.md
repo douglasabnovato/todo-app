@@ -27,6 +27,10 @@
 
 ## 🚀 Inicializar o projeto 
 
+#### Banco de Dados
+
+Subir o cluster do mongo db atlas
+
 #### Backend
 
 Commands `mkdir backend`. Create file `package.json` with details.</br>
