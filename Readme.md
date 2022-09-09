@@ -6,7 +6,7 @@
   <img alt="TodoApp" title="#TodoApp" src="./.github/tela-1.jpg">  
 </p> 
 
-## 🚀 projeto
+## 🚀 Projeto
 
 Uma aplicação de todo com um crud detalhado e a prática do redux.
 
