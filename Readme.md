@@ -1,12 +1,16 @@
 <h4 align="center"> 
-	🚧 Todo App 🚧
+	🚧 Todo App 🚀
 </h4>   
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
   <img alt="TodoApp" title="#TodoApp" src="./.github/tela-1.jpg">  
 </p> 
 
-## 💻 Tecnologias 🚀
+## 🚀 projeto
+
+Uma aplicação de todo com um crud detalhado e a prática do redux.
+
+## 💻 Tecnologias
 
 - [x] 0. Html, css, javascript
 - [x] 1. Express, MongoDB, API Rest, Post Man, Cors, PM2
@@ -15,7 +19,7 @@
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
-  <img alt="TodoApp" title="#TodoApp" src="./.github/tela-1.jpg" width="1000px">  
+  <img alt="TodoApp" title="#TodoApp" src="./.github/tela-1.jpg" width="400px">  
 </p> 
 
 ## 🚀 Desafios 
@@ -36,13 +40,15 @@ Subir o cluster do mongo db atlas
 Commands `mkdir backend`. Create file `package.json` with details.</br>
 Install the lib in the development mode: `npm i`.</br>
 Option 1 of Project started nodemon : `mongod` and `npm run dev`.</br>
-Option 2 of Project started pm2 : `mongod` and `npm run production`. 
+Option 2 of Project started pm2 : `mongod` and `npm run production`.</br>
+Port 3003 
 
 #### Frontend Web
 
 Commands `mkdir frontend`. Create file `package.json` with details.</br>
 Install the lib in the development mode: `npm i`.</br>
-Project started nodemon : `npm run dev`.
+Project started nodemon : `npm run dev`.</br>
+Port 8080 
 
 ## 🚀 Construído projeto 
 

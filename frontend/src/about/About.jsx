@@ -3,8 +3,13 @@ import PageHeader from '../template/pageHeader'
 
 export default props => (
     <div>
-        <PageHeader name='Sobre' small='Nós'></PageHeader> 
-        <h4>Douglas A B Novato</h4> 
-        <a href="https://linktr.ee/douglasabnovato">@douglasabnovato</a>
+        <PageHeader name='Sobre' small='Nós'></PageHeader>
+
+        <h2>Nossa História</h2>
+        <p>Lorem ipsum dolor sit amet...</p>
+        <h2>Missão e Visão</h2>
+        <p>Lorem ipsum dolor sit amet...</p>
+        <h2>Imprensa</h2>
+        <p>Lorem ipsum dolor sit amet...</p>
     </div>
 )
